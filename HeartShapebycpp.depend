@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587320978 source:f:\c++\chaity\main.cpp
+	<iostream>
+	<cmath>
+
